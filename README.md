@@ -1,4 +1,3 @@
-
 Project Title: Chrome Extension for Spam Detection
 
 Description:
@@ -31,3 +30,8 @@ If spam messages are detected, the extension will display an alert notification,
 
 Contributing:
 Contributions to the project are welcome! Feel free to submit pull requests, report issues, or suggest new features by creating an issue on the GitHub repository.
+
+License:
+This project is licensed under the MIT License, allowing for modification, distribution, and use in both personal and commercial projects.
+
+Note: This Chrome extension is designed for the sole purpose of enhancing user browsing experience by detecting spam messages. It does not collect or store any user data without explicit consent. Users are advised to exercise caution and discretion while browsing the web.
